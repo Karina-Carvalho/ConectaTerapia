@@ -22,7 +22,7 @@ const cadastrarTerapias = async (req, res) => {
   }
 };
 
-// Editar um lugar de terapia existente
+// Editar uma clínica de terapia existente
 const editarTerapia = async (req, res) => {
   try {
     const terapia = await Terapia.findByIdAndUpdate(
