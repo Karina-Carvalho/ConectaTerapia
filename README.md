@@ -23,7 +23,7 @@
 [💡 IMPLEMENTAÇÕES FUTURAS](#IMPLEMENTAÇÕES_FUTURAS)<BR>
 [🛠️ CONTRIBUIÇÕES PARA PROJETO](#CONTRIBUIÇÕES_PARA_PROJETO)<BR>
 [🙋🏾‍♀️ AUTORA](#AUTORA_)<BR>
-[💓AGRADECIMENTOS](*AGRADECIMENTOS)<BR>
+[💓 AGRADECIMENTOS](*AGRADECIMENTOS)<BR>
 
 <BR>
 
@@ -96,10 +96,10 @@ O suicídio é influenciado por fatores psicológicos, sociais e culturais. <br>
 | Verbo |        EndPoint         | Descrição da Rota        | Status |
 | ----- | ----------------------  | ------------------------ |--------|
 |  GET  | '/terapia'              | Lista todas as clínicas disponíveis que oferecem terapia  gratuita       |  200   |  
-|  POST | ' /terapia/cadastrar'   | Cadastra clínicas credenciados para atendimento        |  200   |
+|  POST | ' /terapia/cadastrar'   | Cadastra as clínicas para atendimento        |  200   |
 |  PUT  | '/terapia/editar/:id '  | Edita por ID um propriedade   |  200   |
-| PACTH | '/terapia/atualizar/:id'| Atualizar por ID |  200   |
-| DELETE| '/terapia/deletar/:id ' | Exclui por ID clínicas descredenciados   |  200   |
+| PACTH | '/terapia/atualizar/:id'| Atualiza as clínicas por ID |  200   |
+| DELETE| '/terapia/deletar/:id ' | Exclui por ID as clínicas descredenciados   |  200   |
 
 <br>
 
