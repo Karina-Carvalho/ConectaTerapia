@@ -128,16 +128,16 @@ Desenvolver uma API que realize um CRUD: Create, Read, Update e Delete, esteja c
 💻 **INSTALAÇÃO** 
 
 #### --> Clonar o repositório
-</sub> ✅$ git clone https://github.com/Karina-Carvalho/ConectaTerapia
+</sub> $ git clone https://github.com/Karina-Carvalho/ConectaTerapia
 
 #### --> Entrar na pasta do repositório
-</sub> ✅$ cd conectaterapia
+</sub> $ cd conectaterapia
 
 #### --> Instalar as dependências
-</sub> ✅$ npm install
+</sub> $ npm install
 
 #### --> Executar o servidor
-</sub> ✅$ npm start
+</sub> $ npm start
 
 <br>
 
